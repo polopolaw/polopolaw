@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**polopolaw/polopolaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Andrey Gurkovsky - PHP Backend Developer
+📋 Description
+Hello! My name is Andrey Gurkovsky, and I'm a backend developer with a solid foundation in frontend technologies. I specialize in PHP development, particularly with Laravel, and I have experience working on various web development projects.
 
-Here are some ideas to get you started:
+📞 Contacts
+📱 +7 (908) 808-17-22
+📧 polopolaw@gmail.com
+🌐 Telegram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Key Skills
+- PHP, Laravel, MySQL, Redis, Docker, Nginx, ElasticSearch, GraphQL
+- JavaScript, jQuery, HTML5, CSS, Ajax
+- Git, Linux, REST API, MVC
+- Other: WordPress, Livewire, Telegrph.
+- Experience in distributed teams
+- Teaching experience
