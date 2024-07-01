@@ -24,6 +24,6 @@ Hello! My name is Andrey Gurkovsky, and I'm a backend developer with a solid fou
 - Teaching experience
 
 📚 Books
-- Design Data-Itensive Application
-- Laravel beyond CRUD
-- PHP Cookbook
+- Design Data-Itensive Applications by Martin Kleppmann
+- Laravel beyond CRUD. Building larger-than-average web applications by Brent Roose, Spatie
+- PHP Cookbook - Modern code solutions for professional developers by Eric A. Mann
