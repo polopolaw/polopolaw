@@ -25,5 +25,5 @@ Hello! My name is Andrey Gurkovsky, and I'm a backend developer with a solid fou
 
 📚 Books
 - Design Data-Itensive Application
-- Laravel beyon CRUD
+- Laravel beyond CRUD
 - PHP Cookbook
