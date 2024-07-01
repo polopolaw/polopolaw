@@ -22,8 +22,9 @@ Hello! My name is Andrey Gurkovsky, and I'm a backend developer with a solid fou
 - Other: WordPress, Livewire, Telegrph.
 - Experience in distributed teams
 - Teaching experience
+- English B2 level
 
-📚 Books
+📚 Books I read in original
 - Design Data-Itensive Applications by Martin Kleppmann
 - Laravel beyond CRUD. Building larger-than-average web applications by Brent Roose, Spatie
 - PHP Cookbook - Modern code solutions for professional developers by Eric A. Mann
