@@ -16,9 +16,14 @@ Hello! My name is Andrey Gurkovsky, and I'm a backend developer with a solid fou
 
 🛠️ Key Skills
 
-- PHP, Laravel, MySQL, Redis, Docker, Nginx, ElasticSearch, GraphQL
-- JavaScript, jQuery, HTML5, CSS, Ajax
+- PHP, Laravel, MySQL, Redis, Docker, Nginx, ElasticSearch, GraphQL, Livewire3
+- JavaScript, jQuery, HTML5, CSS, Ajax, AlpineJS
 - Git, Linux, REST API, MVC
 - Other: WordPress, Livewire, Telegrph.
 - Experience in distributed teams
 - Teaching experience
+
+📚 Books
+- Design Data-Itensive Application
+- Laravel beyon CRUD
+- PHP Cookbook
