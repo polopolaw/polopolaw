@@ -10,9 +10,8 @@ Hello! My name is Andrey Gurkovsky, and I'm a backend developer with a solid fou
 
 📞 Contacts
 
-📱 +7 (908) 808-17-22
 📧 polopolaw@gmail.com
-🌐 Telegram
+🌐 <a href="https://t.me/easyitomsk" >easyitomsk</a>
 
 🛠️ Key Skills
 
