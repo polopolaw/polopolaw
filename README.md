@@ -5,7 +5,7 @@
 
 📋 Description
 
-Hello! My name is Andrey Gurkovsky, and I'm a backend developer with a solid foundation in frontend technologies. I specialize in PHP development, particularly with Laravel, and I have experience working on various web development projects. Also I have experience using Python, libs for scraping (Selenium, bs4) and FastApi
+Hello! My name is Andrey Gurkovsky, and I'm a backend developer with a solid foundation in frontend technologies. I specialize in PHP development, particularly with Laravel, and I have experience working on various web development projects. Also I have experience using Python, libs for scraping (Selenium, bs4) and FastAPI.
 
 
 📞 Contacts
